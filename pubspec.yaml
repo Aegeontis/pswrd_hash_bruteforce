@@ -1,0 +1,14 @@
+name: pswrd_hash_bruteforce
+description: A simple, partial clear-text password + hash bruteforcer in dart
+version: 1.0.0
+repository: https://github.com/Aegeontis/pswrd_hash_bruteforce
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  crypto: ^3.0.6
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
